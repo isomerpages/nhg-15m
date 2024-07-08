@@ -1,15 +1,31 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    url: /permalink
+    sublinks:
+      - title: 15M Social Movement
+        url: /permalink
+      - title: Healthy Years 5
+        url: /permalink
+      - title: How to Join?
+        url: /permalink
+  - title: Stories
+    url: /Stories/
+  - title: 15M Challange
+    url: /permalink
+    sublinks:
+      - title: About 15M Challenge
+        url: /permalink
+      - title: How to Join
+        url: /permalink
+      - title: Submission
+        url: /permalink
+  - title: Resources
+    url: /resources
+    sublinks:
+      - title: Activities in my neighbourhood
+        url: /permalink
+      - title: NHG Initiatives
+        url: /permalink
+  - title: Partners
+    url: /permalink
