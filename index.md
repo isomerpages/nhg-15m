@@ -29,22 +29,27 @@ sections:
       description: Share with us why years of healthy life is important to you
       button: Share
       url: /faq/
-  - textcards:
-      title: Resident's Story
-      subtitle: Feature
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+  - infopic:
+      title: Mr Tan's Walking Kaki
+      subtitle: Feature Story
+      id: infopic
+      description: Brief description of Mr Tan's story
+      button: Watch video
+      url: 15m.sg/story/mrtan
+      image: /images/Screenshot_2024_07_08_at_5_52_16_PM.png
+      alt: Image alt text
+  - infopic:
+      title: Dave's Community Garden
+      subtitle: Feature Story
+      id: infopic
+      description: Brief description of Dave's community garden she grew with
+        like-minded residents
+      button: Read More
+      url: www.15m.sg/story/davegarden
+      image: /images/Screenshot_2024_07_08_at_5_52_35_PM.png
+      alt: Image alt text
+  - resources:
+      title: Resources
+      id: resources
+      button: More
 ---
