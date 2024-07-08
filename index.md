@@ -24,9 +24,27 @@ sections:
           url: /privacy/
       variant: center
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: '"I want years of good health because..."'
+      subtitle: Pledge
+      description: Share with us why years of healthy life is important to you
+      button: Share
       url: /faq/
+  - textcards:
+      title: Resident's Story
+      subtitle: Feature
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
