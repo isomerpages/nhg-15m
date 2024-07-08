@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Join us to add 15 million years of healthy life!
-      subtitle: Hero subtitle
+      title: Join us to add 15 million years of healthy life together!
+      subtitle: A social movement to connect and act together for health
       background: /images/hero-banner.png
       button: Learn More
       url: /contact-us/
