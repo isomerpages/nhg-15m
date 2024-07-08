@@ -1,5 +1,5 @@
 collections:
-  about:
+  about-15m:
     output: true
     order:
       - folder-page.md
