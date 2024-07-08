@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: 15M Social Movement
+description: Adding 15 million years of healthy life social movement
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
