@@ -1,5 +1,5 @@
 collections:
-  about-15m:
+  about-15m-social-movement:
     output: true
     order:
       - folder-page.md
