@@ -6,12 +6,12 @@ links:
       - title: 15M Social Movement
         url: /about/15msocialmovement/
       - title: Healthy Years 5
-        url: /permalink
+        url: healthy-years-5
       - title: How to Join?
-        url: /permalink
+        url: /about/15msocialmovement/
   - title: Stories
     url: /Stories/
-  - title: 15M Challange
+  - title: 15M Challenge
     url: /permalink
     sublinks:
       - title: About 15M Challenge
