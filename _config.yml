@@ -3,7 +3,7 @@ url: https://www.15m.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#4560ff"
-  secondary-color: "#a4c9ff"
+  secondary-color: "#4560ff"
   media-colors:
     - title: media-color-one
       color: "#f26052"
