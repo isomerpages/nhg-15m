@@ -14,21 +14,21 @@ description: Resident stories
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="float:left; padding:30px 0px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
+<iframe style="float:left; margin:30px 0px; border-radius:10px; border: 0px solid;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
 </div>
 <p><strong>Nurul's Food Delivery</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="float:left; padding:30px 0px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
+<iframe style="float:left; margin:30px 0px; border-radius:10px; border: 0px solid;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
 </div>
 <p><strong>Wang's Community Garden</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="float:left; padding:30px 0px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
+<iframe style="float:left; margin:30px 0px; border-radius:10px; border: 0px solid;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
 </div>
 <p><strong>Renee's Cooking Class</strong>
 </p>
@@ -54,6 +54,4 @@ description: Resident stories
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
