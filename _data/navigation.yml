@@ -29,3 +29,5 @@ links:
         url: /permalink
   - title: Partners
     url: /permalink
+  - title: New resource room
+    resource_room: true
