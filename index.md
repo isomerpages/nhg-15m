@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: About 15M
           description: 15M Social Movement
-          url: https://google.com
+          url: /about
         - title: Resident Stories
           description: Acting together for health
-          url: https://gmail.com
+          url: /stories
         - title: 15M Challenge
           description: (Happening in February!)
-          url: /privacy/
+          url: /challenge
       variant: center
   - infobar:
       title: '"I want years of good health because..."'
