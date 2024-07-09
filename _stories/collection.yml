@@ -1,5 +1,4 @@
 collections:
   stories:
     output: true
-    order:
-      - Resident Stories.md
+    order: []
