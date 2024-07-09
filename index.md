@@ -48,8 +48,16 @@ sections:
       url: www.15m.sg/story/davegarden
       image: /images/Screenshot_2024_07_08_at_5_52_35_PM.png
       alt: Image alt text
-  - resources:
-      title: Resources
-      id: resources
-      button: More
+  - textcards:
+      title: Quick Links
+      id: textcards
+      cards:
+        - title: What's in my neighbourhood?
+          description: Know about the community resources in your neighbourhood
+          linktext: Health Kampung
+          url: ""
+        - title: I'm a partner!
+          description: Let's collaborate on this social movement
+          linktext: Contact us
+          url: ""
 ---
