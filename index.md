@@ -26,7 +26,7 @@ sections:
   - infobar:
       title: '"I want years of good health because..."'
       subtitle: Pledge
-      description: Share with us why years of healthy life is important to you
+      description: 1,593 residents shared why years of good health matters to them
       button: Share
       url: /faq/
   - infopic:
