@@ -60,4 +60,8 @@ sections:
           description: Let's collaborate on this social movement
           linktext: Contact us
           url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
