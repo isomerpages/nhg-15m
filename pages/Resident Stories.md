@@ -32,6 +32,7 @@ description: Resident stories
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_08_at_5_52_16_PM.png">
 </div>
+<p></p>
 <p><strong>Mr Tan's Walking Kaki</strong>
 </p>
 </td>
@@ -40,6 +41,7 @@ description: Resident stories
 <div class="isomer-image-wrapper">
 <img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_08_at_5_52_16_PM.png">
 </div>
+<p></p>
 <p><strong>Dave's Community Garden</strong>
 </p>
 </td>
