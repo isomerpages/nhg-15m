@@ -61,7 +61,7 @@ sections:
           linktext: Contact us
           url: ""
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Pledges
+      subtitle: What residents shared
       id: resources
 ---
