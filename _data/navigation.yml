@@ -20,6 +20,8 @@ links:
         url: /permalink
       - title: Submission
         url: /permalink
+  - title: Pledges
+    resource_room: true
   - title: Resources
     url: /resources
     sublinks:
@@ -29,5 +31,3 @@ links:
         url: /permalink
   - title: Partners
     url: /permalink
-  - title: New resource room
-    resource_room: true
