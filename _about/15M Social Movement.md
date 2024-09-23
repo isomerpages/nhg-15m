@@ -23,8 +23,7 @@ colleagues, schoolmates, interest groups to grow as <strong>caring communities <
 support each other’s well-being and health.</p>
 <p>Let’s connect and act together to add 15M years of healthy life!</p>
 <h2>Be a part of the movement!</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/resources/activities-near-you" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join a group</div><div class="isomer-card-description">Invite others to join you!
-</div><div class="isomer-card-link">List of activities</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/resources/activities-near-you" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join a group</div><div class="isomer-card-description">Invite others to join you!</div><div class="isomer-card-link">List of activities</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/resources/training&amp;support" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Connect others to community resources</div>
