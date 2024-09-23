@@ -2,4 +2,5 @@ collections:
   stories:
     output: true
     order:
+      - Residents' hopes.md
       - Stories.md
