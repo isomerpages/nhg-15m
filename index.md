@@ -24,7 +24,7 @@ sections:
           url: /challenge
       variant: center
   - infopic:
-      title: 15M Social Movement Video
+      title: 15M Social Movement
       id: infopic
       description: How NHG supports residents to grow as caring communities that
         support each other’s well-being and health
