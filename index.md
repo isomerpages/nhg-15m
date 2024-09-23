@@ -31,22 +31,21 @@ sections:
       button: Watch video
       url: /about
   - infopic:
-      title: Mr Tan's Walking Kaki
+      title: The Seniors Caring for Seniors (SCS) Programme
       subtitle: Feature Story
       id: infopic
-      description: Brief description of Mr Tan's story
-      button: Watch video
-      url: 15m.sg/story/mrtan
+      description: Brief description of SCS programme
+      button: Read story
+      url: /stories
       image: /images/Screenshot_2024_07_08_at_5_52_16_PM.png
       alt: Image alt text
   - infopic:
-      title: Dave's Community Garden
+      title: Ms Teresa and Awesome Hearts
       subtitle: Feature Story
       id: infopic
-      description: Brief description of Dave's community garden she grew with
-        like-minded residents
-      button: Read More
-      url: www.15m.sg/story/davegarden
+      description: Brief description of Ms Teresa and Awesome Hearts
+      button: Watch Video
+      url: /stories
       image: /images/Screenshot_2024_07_08_at_5_52_35_PM.png
       alt: Image alt text
   - infobar:
