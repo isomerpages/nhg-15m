@@ -7,28 +7,29 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Join us to add 15 million years of healthy life together!
+      title: Join us in adding 15 million years of healthy life together!
       subtitle: A social movement to connect and act together for health
-      background: /images/hero-banner.png
+      background: /images/banner.png
       button: Learn More
-      url: /contact-us/
+      url: /about
       key_highlights:
         - title: About 15M
           description: 15M Social Movement
           url: /about
         - title: Resident Stories
-          description: Acting together for health
+          description: Hear from our residents!
           url: /stories
-        - title: 15M Challenge
+        - title: 15M Social Challenge
           description: (Happening in February!)
           url: /challenge
       variant: center
-  - infobar:
-      title: '"I want years of good health because..."'
-      subtitle: Pledge
-      description: 1,593 residents shared why years of good health matters to them
-      button: Share
-      url: /faq/
+  - infopic:
+      title: 15M Social Movement Video
+      id: infopic
+      description: How NHG supports residents to grow as caring communities that
+        support each other’s well-being and health
+      button: Watch video
+      url: /about
   - infopic:
       title: Mr Tan's Walking Kaki
       subtitle: Feature Story
@@ -48,20 +49,25 @@ sections:
       url: www.15m.sg/story/davegarden
       image: /images/Screenshot_2024_07_08_at_5_52_35_PM.png
       alt: Image alt text
-  - textcards:
-      title: Quick Links
-      id: textcards
-      cards:
-        - title: What's in my neighbourhood?
-          description: Know about the community resources in your neighbourhood
-          linktext: Health Kampung
-          url: ""
-        - title: I'm a partner!
-          description: Let's collaborate on this social movement
-          linktext: Contact us
-          url: ""
+  - infobar:
+      title: '"I want years of good health because..."'
+      subtitle: Pledge
+      button: Share what matters to you
+      url: https://form.gov.sg/668cb1b0d30c0a1cdf342970
+  - infocols:
+      title: What residents shared
+      id: infocols
+      linktext: View more
+      url: /stories
+      infoboxes:
+        - title: '"I hope to...'
+          description: travel the world with my wife before we turn 65.” –Edmund, Sembawang
+        - title: '"I want to...'
+          description: watch my grandchildren grow up.” –Jane, Toa Payoh
+        - title: Infobox
+          description: Infobox description
   - resources:
       title: Pledges
-      subtitle: What residents shared
       id: resources
+      button: View More
 ---
