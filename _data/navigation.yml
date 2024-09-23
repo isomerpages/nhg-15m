@@ -1,31 +1,31 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About
-    url: /about/15msocialmovement/
+    url: /about/15msocialmovement
     sublinks:
       - title: 15M Social Movement
         url: /about/15msocialmovement/
       - title: Healthy Years 5
         url: healthy-years-5
-      - title: How to Join?
-        url: /about/15msocialmovement/
+      - title: Population Health Campus
+        url: /about/PHC
   - title: Stories
-    url: /resident-stories/
-  - title: 15M Challenge
-    url: /permalink
+    url: /stories
     sublinks:
-      - title: About 15M Challenge
+      - title: Stories
+        url: /stories
+      - title: Residents' hopes
         url: /permalink
-      - title: How to Join
-        url: /permalink
-      - title: Submission
-        url: /permalink
-  - title: Pledges
-    resource_room: true
+  - title: Social Challenge
+    url: /socialchallenge
+  - title: Festival
+    url: /festival
   - title: Resources
     url: /resources
     sublinks:
-      - title: Activities in my neighbourhood
-        url: /permalink
-      - title: NHG Initiatives
-        url: /permalink
+      - title: FAQ
+        url: /faq
+      - title: Activities near you
+        url: /activities
+      - title: Training and support
+        url: /training&support
