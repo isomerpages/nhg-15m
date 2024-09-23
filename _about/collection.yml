@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Population Health Campus.md
       - 15M Social Movement.md
       - Healthy Years 5.md
       - example-subfolder/.keep
