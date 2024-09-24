@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: About 15M
           description: 15M Social Movement
-          url: /about
+          url: /about/15msocialmovement
         - title: Resident Stories
           description: Hear from our residents!
           url: /stories
         - title: 15M Social Challenge
           description: (Happening in February!)
-          url: /challenge
+          url: /15m-social-challenge
       variant: center
   - infopic:
       title: 15M Social Movement
@@ -29,7 +29,7 @@ sections:
       description: How NHG supports residents to grow as caring communities that
         support each other’s well-being and health
       button: Watch video
-      url: /about
+      url: /about/15msocialmovement
   - infopic:
       title: The Seniors Caring for Seniors (SCS) Programme
       subtitle: Feature Story
@@ -57,7 +57,7 @@ sections:
       title: What residents shared
       id: infocols
       linktext: View more
-      url: /stories
+      url: /residents-hopes
       infoboxes:
         - title: '"I hope to...'
           description: travel the world with my wife before we turn 65.” –Edmund, Sembawang
