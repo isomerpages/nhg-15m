@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - Activities Near You.md
       - Frequently Asked Questions.md
+      - Activities Near You.md
