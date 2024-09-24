@@ -4,8 +4,9 @@ permalink: /healthy-years-5/
 variant: tiptap
 description: ""
 ---
-<h2>Healthy Years 5 to Add Years of Healthy Life</h2>
-<p>We need some write up here.</p>
+<h2>Healthy Years 5</h2>
+<p>Not sure where to start? Here are 5 actions that you, your friends, and
+your family, can practice together to enjoy more health benefits.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Stay smoke-free</summary>
