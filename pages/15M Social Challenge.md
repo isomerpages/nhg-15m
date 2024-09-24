@@ -4,7 +4,7 @@ permalink: /15m-social-challenge/
 variant: tiptap
 description: ""
 ---
-<h4>We challenge you!</h4>
+<h2>We challenge you!</h2>
 <h4>Get together with family, friends and other members of your community to act together for each other’s health. Happening from 1 – 28&nbsp; February 2025, participants can stand a chance to win vouchers for your group when you take part in the 15 Million Years of Healthy Life Social Challenge.</h4>
 <h2>How do I join the 15M Social Challenge?</h2>
 <ol data-tight="true" class="tight">
