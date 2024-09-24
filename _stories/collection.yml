@@ -2,5 +2,6 @@ collections:
   stories:
     output: true
     order:
+      - Training and Support.md
       - Stories.md
       - Residents' Hopes.md
