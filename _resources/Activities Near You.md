@@ -21,13 +21,10 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/googleplay.png">
-</div>
-<div class="isomer-image-wrapper">
+<p></p><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=com.nhg.mha&amp;pli=1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/googleplay.png"></a>
+<a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/nhg-cares/id1639265003">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/applestore.png">
-</div>
+</a>
 </th>
 </tr>
 </tbody>
