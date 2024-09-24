@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Training and Support.md
       - Frequently Asked Questions.md
       - Activities Near You.md
+      - Training and Support.md
