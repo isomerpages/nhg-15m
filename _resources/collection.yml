@@ -2,4 +2,4 @@ collections:
   resources:
     output: true
     order:
-      - Frequently Asked Question.md
+      - Frequently Asked Questions.md
