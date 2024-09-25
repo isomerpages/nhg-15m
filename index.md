@@ -71,4 +71,21 @@ sections:
       title: Pledges
       id: resources
       button: View More
+  - textcards:
+      title: Stay Connected
+      subtitle: Follow
+      id: textcards
+      cards:
+        - title: Instagram
+          description: ""
+          linktext: "@15M.SG"
+          url: www.instagram.com/15m.sg
+        - title: Facebook
+          description: ""
+          linktext: 15M Social Movement
+          url: ""
+        - title: Tiktok
+          description: ""
+          linktext: "@15M.SG"
+          url: ""
 ---
