@@ -26,10 +26,12 @@ sections:
   - infopic:
       title: 15M Social Movement
       id: infopic
-      description: How NHG supports residents to grow as caring communities that
-        support each other’s well-being and health
+      description: The 15M Movement aims to shift the focus of health from ‘Me’ to
+        ‘We’ – from attaining one's health, to acting together with others for
+        the health of all.
       button: Watch video
-      url: /about/15msocialmovement
+      url: /about/15msocialmovement/
+      image: /images/Video_thumb.png
   - infopic:
       title: The Seniors Caring for Seniors (SCS) Programme
       subtitle: Feature Story
