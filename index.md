@@ -34,15 +34,6 @@ sections:
       image: /images/Video_thumb.png
       alt: Video thumbnail
   - infopic:
-      title: The Seniors Caring for Seniors (SCS) Programme
-      subtitle: Feature Story
-      id: infopic
-      description: Brief description of SCS programme
-      button: Read story
-      url: /stories
-      image: /images/Screenshot_2024_07_08_at_5_52_16_PM.png
-      alt: Image alt text
-  - infopic:
       title: Ms Teresa and Awesome Hearts
       subtitle: Feature Story
       id: infopic
@@ -88,5 +79,5 @@ sections:
         - title: Tiktok
           description: ""
           linktext: "@15M.SG"
-          url: ""
+          url: https://www.tiktok.com/@15m.sg?_t=8q2PEvMFXJY&_r=1
 ---
