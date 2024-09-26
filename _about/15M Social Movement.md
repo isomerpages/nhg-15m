@@ -38,13 +38,13 @@ support each other’s well-being and health.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/resources/activites-near-you"><img style="width: 100%" height="auto" width="100%" alt="Join a group" src="/images/Join.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/activites-near-you"><img style="width: 100%" height="auto" width="100%" alt="Join a group" src="/images/Join.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/resources/activites-near-you"><img style="width: 100%" height="auto" width="100%" alt="Connect others to community resources" src="/images/Connect.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/activites-near-you"><img style="width: 100%" height="auto" width="100%" alt="Connect others to community resources" src="/images/Connect.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/resources/training-and-support"><img style="width: 100%" height="auto" width="100%" alt="Organise a group" src="/images/Organise.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/training-and-support"><img style="width: 100%" height="auto" width="100%" alt="Organise a group" src="/images/Organise.png"></a>
 </th>
 </tr>
 </tbody>
