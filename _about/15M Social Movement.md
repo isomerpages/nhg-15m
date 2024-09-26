@@ -11,6 +11,9 @@ description: What is 15M social movement?
 <p>National Healthcare Group (NHG) cares for the population of 1.5 million
 residents of Central and North Singapore as the Regional Health Manager
 (RHM).&nbsp;</p>
+<blockquote>
+<h1><strong>1.5 million residents x 10 years</strong></h1>
+</blockquote>
 <p>In caring for the health of all residents in Central and North, and not
 just patients, NHG goes beyond running hospitals and polyclinics. NHG collaborates
 with private general practices, community health and social care providers,
