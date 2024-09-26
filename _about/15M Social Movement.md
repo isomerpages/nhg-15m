@@ -5,7 +5,7 @@ variant: tiptap
 description: What is 15M social movement?
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u7DMeyFlNYc?si=38hWO15E7zVoZ3LO"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u7DMeyFlNYc?si=38hWO15E7zVoZ3LO"></iframe>
 </div>
 <h2>What is the 15 Million Years of Healthy Life (15M) Social Movement?</h2>
 <p>National Healthcare Group (NHG) cares for the population of 1.5 million
