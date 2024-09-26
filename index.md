@@ -32,6 +32,7 @@ sections:
       button: Watch video
       url: /about/15msocialmovement/
       image: /images/Video_thumb.png
+      alt: Video thumbnail
   - infopic:
       title: The Seniors Caring for Seniors (SCS) Programme
       subtitle: Feature Story
