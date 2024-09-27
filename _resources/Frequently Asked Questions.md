@@ -263,6 +263,7 @@ stories.</p>
 <p>Lastly, to grow caring communities within your neighbourhoods by providing
 resident connectors and resident organisers with support and resources
 to deepen relationships and improve themselves and their initiatives.</p>
+<p>Keen to become a partner? Reach out to us at popcollect@nhg.com.sg</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -278,8 +279,6 @@ residents to connect and act together for more years of healthy life.</p>
 </p>
 <p>An annual event will be hosted to recognise resident connectors and resident
 organisers in Central and North Singapore.</p>
-<p>Organisations that support the 15M Social Movement are encouraged to identify
-and nominate</p>
 </div>
 </details>
 <details class="isomer-details">
