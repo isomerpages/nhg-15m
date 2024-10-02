@@ -15,11 +15,9 @@ for each other’s health.</p>
 <blockquote>
 <h1><strong>1.5 million residents x 10 years</strong></h1>
 </blockquote>
-<p>The 15M Movement aims to shift the focus of health from ‘<strong>Me’ to ‘We’ </strong>–
-from attaining my own health by myself, to acting together with others
-for the health of all.</p>
-<p>The 15M movement aspires for residents in communities as families, friends,
-neighbours, colleagues, schoolmates, interest groups to grow as <strong>caring communities </strong>that
+<p>Shifting the focus of health from ‘<strong>Me’ to ‘We’</strong>, 15M aspires
+for residents in communities as families, friends, neighbours, colleagues,
+schoolmates, interest groups to grow as <strong>caring communities </strong>that
 support each other’s well-being and health.</p>
 <p>Let’s connect and act together to add 15M years of healthy life!</p>
 <h2>Be a part of the movement!</h2>
