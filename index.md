@@ -29,7 +29,7 @@ sections:
       description: The 15M Movement aims to shift the focus of health from ‘Me’ to
         ‘We’ – from attaining one's health, to acting together with others for
         the health of all.
-      button: Watch video
+      button: Read more
       url: /about/15msocialmovement/
       image: /images/Video_thumb.png
       alt: Video thumbnail
@@ -37,7 +37,9 @@ sections:
       title: Ms Teresa and Awesome Hearts
       subtitle: Feature Story
       id: infopic
-      description: Brief description of Ms Teresa and Awesome Hearts
+      description: Ms Teresa and the Awesome Hearts do more than daily food
+        distribution in the rental block for lower-income families and seniors.
+        Watch video to find out more!
       button: Watch Video
       url: /stories
       image: /images/Screenshot_2024_07_08_at_5_52_35_PM.png
