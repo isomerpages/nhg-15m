@@ -10,28 +10,14 @@ description: ""
 <details class="isomer-details">
 <summary>What is the 15 Million Years of Healthy Life Social Movement?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Singaporeans live among the longest in the world to an average of 85 years,
-yet they typically spend the last 10 years in poor health. The National
-Healthcare Group (NHG) hopes to regain as many of those 10 years as possible
-for each of our 1.5 million residents in Central and North Singapore as
-its Regional Health Manager. &nbsp;</p>
-<p>The 15 Million Years of Healthy Life (15M) Social Movement aims to rally
-the community to take stronger ownership of their health, aligned with <em>Healthier SG</em> and <em>Age Well SG</em>.We
-have thus set <strong>Adding 15 Million Years of Healthy Life</strong> as
-our aspirational goal for our residents to live more of their life-years
-in good physical, mental, and social health so that they can enjoy what
-matters to them for longer.</p>
-<p>NHG will support the 15M Social Movement through its commitment to medical
-care and innovations for its residents. But this challenge calls for a
-collective effort of residents, community partners, GPs, and organisations
-in Central and North Singapore. This effort will drive the 15M Social Movement
-by activating and supporting residents not as individuals but as groups
-and communities for health; find among themselves stories of health and
-social activation that inspire and contribute to building a better society;
-support residents to proactively connect and act together with one another
-for better health; and extend support to those who need it more.</p>
-<p>Click <a href="/15m-social-challenge" rel="noopener nofollow" target="_blank">here</a> to
-find out more about the Social Challenge.</p>
+<p>Singaporeans enjoy one of the longest life expectancies in the world,
+averaging 85 years, but spend the 10 years in poor health. The challenge
+now is to not only add more years to life, but those years to be lived
+as fully as possible and in good health – physically, mentally, and socially.</p>
+<p>The Adding 15 Million Years of Healthy Life (15M) Movement aspires for
+our residents to live as many of their years in good health as possible,
+both delaying the onset of serious illness and improving quality of life,
+ensuring that residents not only live longer but also healthier lives.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -40,27 +26,6 @@ find out more about the Social Challenge.</p>
 <p>We aspire for each of the 1.5 million residents living in Central and
 North Singapore to regain the 10 years typically spent in ill health. In
 totality, we will be regaining 15 million years of healthy life.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>How does the movement plan to achieve 15 million years of healthy life?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The key call of the 15M Social Movement is “<strong>Me to We</strong>”
-– from attaining my own health by myself to acting together with others
-for the health of all.</p>
-<p>By empowering residents to organise health-focused activities, promoting
-social connectedness, and partnering with community groups, active ageing
-centres, workplaces, and schools, the movement creates a supportive environment
-for healthier lifestyles and stronger communities.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>What does “healthspan” mean in the context of this movement?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Healthspan refers to the number of years a person lives in good health,
-free from serious illness or disability. The movement focuses on improving
-the healthspan, not just lifespan, by fostering healthier habits and stronger
-community connections.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -78,27 +43,13 @@ for transforming our communities and healthcare.</p>
 <details class="isomer-details">
 <summary>How can I participate in the 15 Million Years of Healthy Life Movement?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You can participate by joining or organising activities in your neighbourhood,
-workplace, or community that promote health and well-being. This could
-include exercise groups, interest groups, health talks, or simply bringing
-neighbours together to support one another’s well-being.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>What kind of activities can residents organise?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Residents can organise a wide range of activities, such as fitness classes,
-health workshops, mental health awareness events, social gatherings for
-seniors, or group wellness challenges. The focus is on promoting health
-and building stronger, more connected communities.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>How does community involvement contribute to better health?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Social connection is a key component of health. By coming together as
-a community to support each other’s physical, mental, and emotional well-being,
-we can all live healthier, more fulfilling lives.</p>
+<p>Participate by joining or organising activities among your family, friends,
+neighbours, colleagues, schools, that promote health and well-being.</p>
+<p>Join in or organise actions for health that matters to you and your community.
+It could include exercise groups, interest groups, or supporting isolated
+and needy persons in the community, or simply bringing neighbours together
+to support one another’s well-being. The focus is on promoting health and
+building stronger, more connected communities.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -117,9 +68,9 @@ the 10 years typically spent in poor health.</p>
 <details class="isomer-details">
 <summary>What is the 15M Social Challenge?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The 15M Social Challenge is a month-long social media challenge for residents
-living in Central and North Singapore to act together with family, friends,
-neighbours, schoolmates, colleagues, and interest groups for each other's&nbsp;health.</p>
+<p>The 15M Social Challenge invites residents living in Central and North
+Singapore to come together to set a joint and support each other to achieve
+challenge for their health and well-being together.</p>
 <p>Click <a href="/15m-social-challenge" rel="noopener nofollow" target="_blank">here</a> to
 find out more about the 15M Social Challenge.</p>
 </div>
@@ -136,19 +87,22 @@ find out more about the 15M Social Challenge.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Join a group activity for health – regardless of if it’s a hiking group,
-yoga class, or even a baking class that makes healthy food together.</p>
+<p>Get together with a group of friends, family or members of the community
+and set a common health goal to reach at the end of this month – these
+goals can vary from agreeing to eat less fried foods together, going hiking
+at least once a week, quitting smoking together or even keeping each other
+accountable for going to regular health check-ups regularly.</p>
 </li>
 <li>
 <p>Take a photo of the group acting together for each other’s health</p>
 </li>
 <li>
-<p>Post the photo onto Instagram with the hashtags <strong>#15M</strong> and
-your zone (e.g. #Yishun, #AngMoKio etc.) and tag us at <a href="www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>. Do
-remember to make your profile public so we can see your post!</p>
+<p>Post the photo onto Instagram and share about your group’s health goal
+in the caption together with how you are planning to achieve it together!</p>
 </li>
 <li>
-<p>If you don’t have social media, you may also share your submissions here.</p>
+<p>Don’t forget to make your profile public, tag us <a href="www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and include the hashtags #15M
+and #YourZone (e.g. Yishun, AngMoKio etc.)</p>
 </li>
 </ol>
 </div>
@@ -162,11 +116,12 @@ remember to make your profile public so we can see your post!</p>
 <p>Lucky draw (up to 1 group per zone): $100 in vouchers</p>
 </li>
 <li>
-<p>Most inspiring stories* of connections and acting together for health
-(up to 3 groups per zone): $200 in vouchers</p>
+<p>Top 3 posts with the highest engagement per zone (likes, comments, and
+shares) will be recognised: $200 in vouchers</p>
 </li>
 <li>
-<p>Top 3 groups with most participants will be recognised: $500 in vouchers</p>
+<p>Most inspiring stories* of connections and acting together for health
+(up to 3 groups): $ 500 in vouchers</p>
 </li>
 </ul>
 <p>*<em>To be decided by a panel of resident leaders</em>
@@ -263,7 +218,9 @@ stories.</p>
 <p>Lastly, to grow caring communities within your neighbourhoods by providing
 resident connectors and resident organisers with support and resources
 to deepen relationships and improve themselves and their initiatives.</p>
-<p>Keen to become a partner? Reach out to us at popcollect@nhg.com.sg</p>
+<p>The 15M Social Movement invites like-minded partner organisations in the
+community to join in spreading and supporting the movement. Contact us
+at 15M@nhg.com.sg to find out more!</p>
 </div>
 </details>
 <details class="isomer-details">
