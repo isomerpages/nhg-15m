@@ -39,35 +39,22 @@ sections:
       id: infopic
       description: Ms Teresa and the Awesome Hearts do more than daily food
         distribution in the rental block for lower-income families and seniors.
-        Watch video to find out more!
       button: Watch Video
       url: /stories
-      image: /images/Screenshot_2024_07_08_at_5_52_35_PM.png
+      image: /images/TERESA_STILL05.png
       alt: Image alt text
   - infobar:
       title: '"I want years of good health because..."'
       subtitle: Pledge
       button: Share what matters to you
       url: https://form.gov.sg/668cb1b0d30c0a1cdf342970
-  - infocols:
-      title: What residents shared
-      id: infocols
-      linktext: View more
-      url: /residents-hopes
-      infoboxes:
-        - title: '"I hope to...'
-          description: travel the world with my wife before we turn 65.” –Edmund, Sembawang
-        - title: '"I want to...'
-          description: watch my grandchildren grow up.” –Jane, Toa Payoh
-        - title: Infobox
-          description: Infobox description
   - resources:
       title: Pledges
       id: resources
       button: View More
   - textcards:
       title: Stay Connected
-      subtitle: Follow
+      subtitle: Follow our socials
       id: textcards
       cards:
         - title: Instagram
@@ -82,4 +69,16 @@ sections:
           description: ""
           linktext: "@15M.SG"
           url: https://www.tiktok.com/@15m.sg?_t=8q2PEvMFXJY&_r=1
+  - infocols:
+      title: What residents shared
+      id: infocols
+      linktext: View more
+      url: /residents-hopes
+      infoboxes:
+        - title: '"I hope to...'
+          description: travel the world with my wife before we turn 65.” –Edmund, Sembawang
+        - title: '"I want to...'
+          description: watch my grandchildren grow up.” –Jane, Toa Payoh
+        - title: Infobox
+          description: Infobox description
 ---
