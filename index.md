@@ -48,10 +48,19 @@ sections:
       subtitle: Pledge
       button: Share what matters to you
       url: https://form.gov.sg/668cb1b0d30c0a1cdf342970
-  - resources:
-      title: Pledges
-      id: resources
-      button: View More
+  - infocols:
+      title: What residents shared
+      id: infocols
+      linktext: View more
+      url: /residents-hopes
+      infoboxes:
+        - title: '"I hope to...'
+          description: travel the world with my wife before we turn 65.” –Edmund, Sembawang
+        - title: '"I want to...'
+          description: watch my grandchildren grow up.” –Jane, Toa Payoh
+        - title: '"I love...'
+          description: going on dive trips and would like to do that even when I am
+            retired.” –Odelia, Kallang
   - textcards:
       title: Stay Connected
       subtitle: Follow our socials
@@ -69,16 +78,4 @@ sections:
           description: ""
           linktext: "@15M.SG"
           url: https://www.tiktok.com/@15m.sg?_t=8q2PEvMFXJY&_r=1
-  - infocols:
-      title: What residents shared
-      id: infocols
-      linktext: View more
-      url: /residents-hopes
-      infoboxes:
-        - title: '"I hope to...'
-          description: travel the world with my wife before we turn 65.” –Edmund, Sembawang
-        - title: '"I want to...'
-          description: watch my grandchildren grow up.” –Jane, Toa Payoh
-        - title: Infobox
-          description: Infobox description
 ---
