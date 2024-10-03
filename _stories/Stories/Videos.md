@@ -25,7 +25,7 @@ community <a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener n
 <p>Ms Teresa and Awesome Hearts</p>
 </th>
 <th rowspan="1" colspan="1">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z1U4LjGnaSs?si=EtcTcc0BjJRTEMUB" style="margin: 30px; border-radius:10px; border: 0px solid;" height="220" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/z1U4LjGnaSs?si=EtcTcc0BjJRTEMUB" style="margin: 30px 0px; border-radius:10px; border: 0px solid;" height="220" width="100%"></iframe>
 
 <p>Staying Connected with Mdm Tan</p>
 </th>
