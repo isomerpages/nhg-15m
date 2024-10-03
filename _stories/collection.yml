@@ -2,7 +2,7 @@ collections:
   stories:
     output: true
     order:
-      - Stories/The Seniors Caring for Seniors (SCS) Programme.md
-      - Stories/Videos.md
       - Stories/.keep
+      - Stories/Videos.md
+      - Stories/The Seniors Caring for Seniors (SCS) Programme.md
       - Residents' Hopes.md
