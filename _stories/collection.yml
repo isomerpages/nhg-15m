@@ -2,6 +2,6 @@ collections:
   stories:
     output: true
     order:
-      - Visual resident story/Stories.md
-      - Visual resident story/.keep
+      - Stories/Stories.md
+      - Stories/.keep
       - Residents' Hopes.md
