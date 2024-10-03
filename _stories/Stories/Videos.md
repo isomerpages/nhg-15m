@@ -20,13 +20,13 @@ community <a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener n
 <tr>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="width:350px; height: 250px; margin:30px 0px; border-radius:10px; border: 0px solid;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
+<iframe style="width:auto; height: 220px; margin:30px 0px; border-radius:10px; border: 0px solid;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
 </div>
 <p>Ms Teresa and Awesome Hearts</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe style="width:350px; height: 250px; margin:30px 0px; border-radius:10px; border: 0px solid;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
+<iframe style="width:380px; height: 220px; margin:30px 0px; border-radius:10px; border: 0px solid;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ouycLH1-3qs?si=J6gI8570ahZvkfgG"></iframe>
 </div>
 <p>Staying Connected with Mdm Tan</p>
 </th>
@@ -34,7 +34,7 @@ community <a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener n
 <tr>
 <td rowspan="1" colspan="1">
 	<div class="iframe-wrapper">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DfYzDCwHFzI?si=goWBaU6A9LFZ5Ry4" style="30px 0px; border-radius:10px; border: 0px solid;" height="250" width="350"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DfYzDCwHFzI?si=goWBaU6A9LFZ5Ry4" style="30px 0px; border-radius:10px; border: 0px solid;" height="220" width="380"></iframe>
 </div>
 <p></p>
 <p><strong>Ms Nadira</strong>
