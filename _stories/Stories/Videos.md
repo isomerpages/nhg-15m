@@ -33,15 +33,15 @@ community <a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener n
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+	<div class="iframe-wrapper">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DfYzDCwHFzI?si=goWBaU6A9LFZ5Ry4" style="30px 0px; border-radius:10px; border: 0px solid;" height="250" width="350"></iframe>
+</div>
 <p></p>
 <p><strong>Ms Nadira</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDMTAN_STILL04.png">
-</div>
 <p><strong>The Seniors Caring for Seniors (SCS) Programme</strong>
 </p>
 </td>
