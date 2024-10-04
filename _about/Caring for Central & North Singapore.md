@@ -8,7 +8,9 @@ description: ""
 <p>The Population Health Campus (PHC) is NHG’s commitment to add years of
 healthy life for the 1.5 million residents living in Central and North
 Singapore.</p>
-<p>[add map of Central and North Singapore]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Map of Central and North Singapore" src="/images/Map___Central_and_North.png">
+</div>
 <p>Apart from offering a full range of healthcare services across Primary
 Care, Community Care, and Population Health Management, PHC brings together
 NHG’s ​population health efforts that covers the whole of Central and North
