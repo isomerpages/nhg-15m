@@ -22,6 +22,7 @@ how you are staying socially connected and making a difference in your
 community <a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 
+<div style="position:absolute; width:auto;">
 <div class="videobox">
 <iframe style="border-radius:10px; border: 0px solid;" height="220" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DfYzDCwHFzI?si=goWBaU6A9LFZ5Ry4"></iframe>
 <p>Ms Teresa and Awesome Hearts</p>
@@ -35,5 +36,5 @@ community <a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener n
 <iframe style="border-radius:10px; border: 0px solid;" height="220" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DfYzDCwHFzI?si=goWBaU6A9LFZ5Ry4"></iframe>
 <p>Ms Nadira</p>
 </div>
-
+</div>
 <p></p>
