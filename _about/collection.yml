@@ -1,0 +1,7 @@
+collections:
+  about:
+    output: true
+    order:
+      - 15M Social Movement.md
+      - Caring for Central & North Singapore.md
+      - Healthy Years 5.md

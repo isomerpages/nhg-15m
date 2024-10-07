@@ -1,15 +1,31 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/15M_web.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    url: /about/15msocialmovement
+    sublinks:
+      - title: 15M Social Movement
+        url: /about/15msocialmovement/
+      - title: Caring for Central & North SG
+        url: /about/caring-for-central-and-north-sg
+      - title: Healthy Years 5
+        url: /about/healthy-years-5/
+  - title: Stories
+    url: /stories
+    sublinks:
+      - title: Stories
+        url: /stories
+      - title: Residents' Hopes
+        url: /residents-hopes
+  - title: 15M Social Challenge
+    url: /15m-social-challenge/
+  - title: Festival
+    url: /festival
+  - title: Resources
+    url: /resources
+    sublinks:
+      - title: FAQ
+        url: /frequently-asked-questions
+      - title: Activities Near You
+        url: /activities-near-you
+      - title: Training and Support
+        url: /training-and-support
