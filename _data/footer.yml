@@ -1,8 +1,6 @@
 contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+show_reach: false
 social_media:
-  facebook: https://www.facebook.com/15Msocialmovement
   youtube: https://www.youtube.com/@15M_SG
   instagram: https://www.instagram.com/15m.sg
   tiktok: https://www.tiktok.com/@15m.sg
