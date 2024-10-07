@@ -11,7 +11,7 @@ sections:
       subtitle: A social movement to connect and act together for health
       background: /images/banner.png
       button: Learn More
-      url: /about
+      url: /about/15msocialmovement
       key_highlights:
         - title: About 15M
           description: 15M Social Movement
