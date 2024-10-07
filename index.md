@@ -2,7 +2,7 @@
 layout: homepage
 title: 15M Social Movement
 description: Adding 15 million years of healthy life social movement
-image: /images/isomer-logo.svg
+image: /images/Asset_8.png
 permalink: /
 notification: ""
 sections:
