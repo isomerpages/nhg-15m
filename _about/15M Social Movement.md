@@ -8,9 +8,14 @@ description: What is 15M social movement?
 <iframe height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q2Vj8XCEm1Q?si=IxVlLSYRuM2LEPPW"></iframe>
 </div>
 <h2>What is the 15 Million Years of Healthy Life (15M) Social Movement?</h2>
-<p>Staying socially connected to those around you has shown to bring health
-benefits. The 15M Social Movement aims to bring together the residents
-of Central and North Singapore to act together for each other’s health.</p>
+<p>Social movements bring together the collective power of the people to
+bring about change​. The 15M Social Movement is a call for residents in
+communities, as families, friends, neighbours, schoolmates, colleagues,
+interest groups, to connect and act together for each other's health.​
+The rallying call is not just to reclaim for ourselves the 10 years typically
+spent in poor health, but 15 million years together, for all 1.5 million
+residents in Central and North​Singapore.​Together, we aim to build and
+grow many caring communities.</p>
 <blockquote>
 <h1><strong>1.5 million residents x 10 years</strong></h1>
 </blockquote>
@@ -49,8 +54,8 @@ support each other’s well-being and health.</p>
 </tr>
 </tbody>
 </table>
-<p>See how our others are acting together for health <a href="/stories" rel="noopener nofollow" target="_blank">here</a>.</p>
-<h2>Are you up for a challenge?</h2>
-<p>Keep your eyes peeled on <a href="/15m-social-challenge" rel="noopener nofollow" target="_blank">this space</a> for
-updates, coming in 2025!</p>
+<p>See how others are acting together for health <a href="/stories" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h2>Annual 15M Social Challenge</h2>
+<p>Get together to set a <a href="/15m-social-challenge" rel="noopener nofollow" target="_blank">joint health challenge</a> and
+support each other to reach the goal.</p>
 <p></p>
