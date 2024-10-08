@@ -16,11 +16,7 @@ is NHG’s commitment to add years of healthy life for our 1.5 million residents
 services across Primary Care, Community Care, and Population Health Management.
 These services include NHG Polyclinics, Central-North Primary Care Network,
 NHG Community Health Teams, NHG Preventive Health Centre, NHG Telehealth
-&amp; Call Centre, NHG Digital Health Services, NHG Pharmacy, and NHG Diagnostics.​
-​ Working closely with hospitals, general practitioners, and community
-partners, PHC joins up health and social care, take preventive health strategy
-and support ageing in place, for our residents to keep them healthy and
-well.</p>
+&amp; Call Centre, NHG Digital Health Services, NHG Pharmacy, and NHG Diagnostics.</p>
 <p>Working closely with hospitals, general practitioners, and community partners,
 PHC joins up health and social care, take preventive health strategy and
 support ageing in place, for our residents to keep them healthy and well.&nbsp;</p>
