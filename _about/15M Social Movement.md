@@ -31,16 +31,19 @@ support each other’s well-being and health.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Join groups and invite others" src="/images/Join_2.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/activities-near-you"><img style="width: 100%" height="auto" width="100%" alt="Connect others to community resources" src="/images/Connect.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organise_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Connect_2.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Organise groups for health" src="/images/Organise_2.png">
 </div>
 </th>
 </tr>
