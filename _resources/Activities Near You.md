@@ -6,7 +6,6 @@ description: ""
 ---
 <style>
 div.videobox {
-	border:1px solid black;
 	width: 50%;
 	position: relative;
 	float: left;
