@@ -146,7 +146,6 @@ Complaints can be referred to:</p>
 <p>Mr. Ramesh Vakkiprath&nbsp;</p>
 <p>35, Selegie Road, #09-25, Parklane,&nbsp;Singapore 188307&nbsp;</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">ramesh@cnsg.com.sg</a>
-<a href="mailto:ramesh@cnsg.com.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;​</a>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://www.cnsg.com.sg​</a>
 </p>
