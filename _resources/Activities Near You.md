@@ -16,7 +16,7 @@ div.videobox {
 <p>Locate a group activity for health near you at <a href="https://www.gowhere.gov.sg/hsgevents/" rel="noopener noreferrer nofollow" target="_blank">Healthier SG Events Go Where</a>.</p>
 <h2>Health Kampung</h2>
 <p></p>
-<div style="position:static; width:auto; height:400px;">
+<div style="display:inline-block; width:auto; height:auto;">
 <div class="videobox">
 	<img style="width: 70%;" height="auto" width="100%" alt="NCA Health Kampung" src="/images/NCA_HK.png">
 </div>
