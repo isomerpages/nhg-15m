@@ -108,27 +108,6 @@ and #YourZone (e.g. Yishun, AngMoKio etc.)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How are the winners* of the 15M Social Challenge selected?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Winning categories and prizes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Lucky draw (up to 1 group per zone): $100 in vouchers</p>
-</li>
-<li>
-<p>Top 3 posts with the highest engagement per zone (likes, comments, and
-shares) will be recognised: $200 in vouchers</p>
-</li>
-<li>
-<p>Most inspiring stories* of connections and acting together for health
-(up to 3 groups): $ 500 in vouchers</p>
-</li>
-</ul>
-<p>*<em>To be decided by a panel of resident leaders</em>
-</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>Where can I find group health activities to participate in?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Locate a group health activity near you at <a href="https://www.gowhere.gov.sg/hsgevents/" rel="noopener noreferrer nofollow" target="_blank">Healthier SG Events Go Where</a>.</p>
