@@ -18,7 +18,7 @@ content and privacy practices of these other websites and encourage you
 to consult the privacy notices of those sites.</p>
 </li>
 </ol>
-<h4><strong>We Respect and Keep Your Data Safe</strong></h4>
+<h4>We Respect and Keep Your Data Safe</h4>
 <p>The Personal Data Protection Act (PDPA) protects your personal data while
 enabling&nbsp;organisations&nbsp;to use your data reasonably to serve you.
 Please be assured that if your personal data is collected, used, or disclosed,
