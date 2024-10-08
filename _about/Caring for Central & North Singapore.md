@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>NHG’s Population Health Campus</h2>
 <p>The Population Health Campus (PHC) brings together NHG’s population health
-efforts as the fourth campus covering the Central and North region. It
+efforts as the 'fourth campus' covering the Central and North region. It
 is NHG’s commitment to add years of healthy life for our 1.5 million residents.​</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Map of Central and North Singapore" src="/images/Map___Central_and_North.png">
