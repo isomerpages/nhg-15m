@@ -18,7 +18,7 @@ div.videobox {
 <a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener nofollow" target="_blank">We want to hear your stories.</a>
 </p><p></p>
 
-<div style="position:static; width:auto; height:700px;">
+<div style="display:inline-block; width:auto; height:auto;">
 <div class="videobox">
 <iframe style="border-radius:10px; border: 0px solid;" height="220" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DfYzDCwHFzI?si=goWBaU6A9LFZ5Ry4"></iframe>
 <p>Ms Teresa and Awesome Hearts</p>
