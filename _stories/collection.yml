@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Videos.md
-      - Stories/.keep
       - Residents' Hopes.md
