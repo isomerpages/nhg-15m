@@ -20,7 +20,7 @@ sections:
           description: Hear from our residents!
           url: /stories
         - title: 15M Social Challenge
-          description: (Happening in February!)
+          description: (Happening in February 2025!)
           url: /15m-social-challenge
       variant: center
   - infopic:
@@ -49,7 +49,7 @@ sections:
       button: Share what matters to you
       url: https://form.gov.sg/668cb1b0d30c0a1cdf342970
   - infocols:
-      title: What residents shared
+      title: What Residents Shared
       id: infocols
       linktext: View more
       url: /residents-hopes
