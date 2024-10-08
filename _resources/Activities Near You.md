@@ -4,9 +4,7 @@ permalink: /activities-near-you/
 variant: tiptap
 description: ""
 ---
-<h2>Activities near you</h2>
 <p>Locate a group activity for health near you at <a href="https://www.gowhere.gov.sg/hsgevents/" rel="noopener noreferrer nofollow" target="_blank">Healthier SG Events Go Where</a>.</p>
-<p></p>
 <h2>Health Kampung</h2>
 <table style="minWidth: 50px">
 <colgroup>
