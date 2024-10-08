@@ -8,11 +8,11 @@ description: ""
 <h2>How do I join the 15M Social Challenge?</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Get together with a group of friends, family or members of the community
-and set a common health goal to reach at the end of this month – these
-goals can vary from agreeing to eat less fried foods together, going hiking
-at least once a week, quitting smoking together or even keeping each other
-accountable for going to regular health check-ups regularly.</p>
+<p>Get together to set a <a href="/15m-social-challenge" rel="noopener nofollow" target="_blank">join health challenge</a> and
+support each other to reach the goal<s>.</s> – these goals can vary from
+cooking a balanced nutritious meal for neighbour, invite your <em>kakis</em> to
+take a walk, pick up a new sport together, quit smoking together or even<s>t</s> keeping
+each other accountable for going for health check-ups regularly.</p>
 </li>
 <li>
 <p>Take a photo of the group acting together for each other’s health</p>
