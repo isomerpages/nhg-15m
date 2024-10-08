@@ -17,9 +17,6 @@ services across Primary Care, Community Care, and Population Health Management.
 These services include NHG Polyclinics, Central-North Primary Care Network,
 NHG Community Health Teams, NHG Preventive Health Centre, NHG Telehealth
 &amp; Call Centre, NHG Digital Health Services, NHG Pharmacy, and NHG Diagnostics.</p>
-<p>Working closely with hospitals, general practitioners, and community partners,
-PHC joins up health and social care, take preventive health strategy and
-support ageing in place, for our residents to keep them healthy and well.&nbsp;</p>
 <p>Singaporeans enjoy one of the longest life expectancies in the world at
 85 years but spend the last 10 years in poor health. In collaboration with
 our private general practices, community health and social care providers,
