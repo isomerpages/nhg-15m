@@ -9,10 +9,10 @@ description: What is 15M social movement?
 </div>
 <h2>What is the 15 Million Years of Healthy Life (15M) Social Movement?</h2>
 <p>Social movements bring together the collective power of the people to
-bring about change​. The 15M Social Movement is a call for residents in
+bring about change. The 15M Social Movement is a call for residents in
 communities, as families, friends, neighbours, schoolmates, colleagues,
-interest groups, to connect and act together for each other's health.​
-The rallying call is not just to reclaim for ourselves the 10 years typically
+interest groups, to connect and act together for each other's health. The
+rallying call is not just to reclaim for ourselves the 10 years typically
 spent in poor health, but 15 million years together, for all 1.5 million
 residents in Central and North​ Singapore. Together, we aim to build and
 grow many caring communities.</p>
