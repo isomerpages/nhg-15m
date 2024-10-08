@@ -145,8 +145,8 @@ Complaints can be referred to:</p>
 <h4>​<strong>Business​Trust Secretariat</strong>&nbsp; &nbsp;&nbsp;</h4>
 <p>Mr. Ramesh Vakkiprath&nbsp;</p>
 <p>35, Selegie Road, #09-25, Parklane,&nbsp;Singapore 188307&nbsp;</p>
-<p><a href="mailto:ramesh@cnsg.com.sg" rel="noopener noreferrer nofollow" target="_blank">Email: </a>
-<a rel="noopener noreferrer nofollow" target="_blank">ramesh@cnsg.com.sg</a><a href="mailto:ramesh@cnsg.com.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;​</a>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">ramesh@cnsg.com.sg</a>
+<a href="mailto:ramesh@cnsg.com.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;​</a>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://www.cnsg.com.sg​</a>
 </p>
