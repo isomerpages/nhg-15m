@@ -8,8 +8,8 @@ description: ""
 <h2>How do I join the 15M Social Challenge?</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Get together to set a <u>joint health challenge</u> and support each other
-to reach the goal – these goals can vary from cooking a balanced nutritious
+<p>Get together to set a joint health challenge and support each other to
+reach the goal – these goals can vary from cooking a balanced nutritious
 meal for neighbour, invite your <em>kakis</em> to take a walk, pick up a
 new sport together, quit smoking together or even keeping each other accountable
 for going for health check-ups regularly.</p>
@@ -22,9 +22,9 @@ for going for health check-ups regularly.</p>
 in the caption together with how you are planning to achieve it together!</p>
 </li>
 <li>
-<p>Don’t forget to make your profile public, tag us <a href="www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and include the hashtags #15M
-and #YourZone (e.g. Ang Mo Kio, Bishan, Hougang, Geylang, Kallang, Novena,
-Sembawang, Serangoon, Simpang, Toa Payoh, Woodlands, Yishun, etc).</p>
+<p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and include the hashtags
+#15M and #YourZone (e.g. Ang Mo Kio, Bishan, Hougang, Geylang, Kallang,
+Novena, Sembawang, Serangoon, Simpang, Toa Payoh, Woodlands, Yishun, etc).</p>
 </li>
 </ol>
 <p></p>
