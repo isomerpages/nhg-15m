@@ -56,6 +56,6 @@ support each other’s well-being and health.</p>
 </table>
 <p>See how others are acting together for health <a href="/stories" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h2>Annual 15M Social Challenge</h2>
-<p>Get together to set a <a href="/15m-social-challenge" rel="noopener nofollow" target="_blank">joint health challenge</a> and
-support each other to reach the goal.</p>
+<p>Get together to set a joint health challenge and support each other to
+reach the goal. Find out more <a href="/15m-social-challenge" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
