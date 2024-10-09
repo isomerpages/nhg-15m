@@ -34,18 +34,18 @@ sections:
       image: /images/Video_thumb.png
       alt: Video thumbnail
   - infopic:
-      title: Ms Teresa and Awesome Hearts
+      title: Teresa and Awesome Hearts
       subtitle: Feature Story
       id: infopic
-      description: Ms Teresa and the Awesome Hearts do more than daily food
-        distribution in the rental block for lower-income families and seniors.
+      description: Teresa and the Awesome Hearts do more than daily food distribution
+        in the rental block for lower-income families and seniors.
       button: Watch Video
       url: /stories
       image: /images/TERESA_STILL05.png
       alt: Image alt text
   - infobar:
       title: '"I want years of good health because..."'
-      subtitle: Pledge
+      subtitle: Share and Pledge
       button: Share what matters to you
       url: https://form.gov.sg/668cb1b0d30c0a1cdf342970
   - infocols:
@@ -69,7 +69,7 @@ sections:
         - title: Instagram
           description: ""
           linktext: "@15M.SG"
-          url: www.instagram.com/15m.sg
+          url: https://www.instagram.com/15m.sg
         - title: Facebook
           description: ""
           linktext: 15M Social Movement
