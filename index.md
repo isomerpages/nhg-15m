@@ -45,7 +45,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: '"I want years of good health because..."'
-      subtitle: Share and Pledge
+      subtitle: Pledge
       button: Share what matters to you
       url: https://form.gov.sg/668cb1b0d30c0a1cdf342970
   - infocols:
