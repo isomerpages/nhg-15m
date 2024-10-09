@@ -8,8 +8,8 @@ description: ""
 <h2>How do I join the 15M Social Challenge?</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Get together to set a <u>joint health challenge</u> and support each other
-to reach the goal – these goals can vary from cooking a balanced nutritious
+<p>Get together to set a joint health challenge and support each other to
+reach the goal – these goals can vary from cooking a balanced nutritious
 meal for neighbour, invite your <em>kakis</em> to take a walk, pick up a
 new sport together, quit smoking together or even keeping each other accountable
 for going for health check-ups regularly.</p>
