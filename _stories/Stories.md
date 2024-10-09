@@ -15,7 +15,7 @@ div.videobox {
 	
 </style>
 <p>Hear directly from our residents as they share how acting together for health has positively impacted their lives. 
-<a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener nofollow" target="_blank">We want to hear your stories.</a>
+<a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener nofollow" target="_blank">Share your stories with us!</a>
 </p><p></p>
 
 <div style="display:inline-block; width:auto; height:auto;">
