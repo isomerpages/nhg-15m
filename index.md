@@ -73,7 +73,7 @@ sections:
         - title: Facebook
           description: ""
           linktext: 15M Social Movement
-          url: ""
+          url: https://www.facebook.com/profile.php?id=61567162013398
         - title: Tiktok
           description: ""
           linktext: "@15M.SG"
