@@ -101,8 +101,8 @@ accountable for going to regular health check-ups regularly.</p>
 in the caption together with how you are planning to achieve it together!</p>
 </li>
 <li>
-<p>Don’t forget to make your profile public, tag us <a href="www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and include the hashtags #15M
-and #YourZone (e.g. Yishun, AngMoKio etc.)</p>
+<p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and include the hashtags
+#15M and #YourZone (e.g. Yishun, AngMoKio etc.)</p>
 </li>
 </ol>
 </div>
@@ -127,13 +127,10 @@ you on Health Kampung, available on the NHG Cares mobile app.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Google Play Store" src="/images/googleplay.png">
-</div>
-<div class="isomer-image-wrapper">
+<p></p><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=com.nhg.mha&amp;pli=1"><img style="width: 50%;" height="auto" width="100%" alt="Google Play Store" src="/images/googleplay.png"></a>
+<a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/nhg-cares/id1639265003">
 <img style="width: 50%;" height="auto" width="100%" alt="Apple Store" src="/images/applestore.png">
-</div>
+</a>
 </th>
 </tr>
 </tbody>
