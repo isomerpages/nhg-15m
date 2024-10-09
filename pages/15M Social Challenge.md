@@ -22,9 +22,9 @@ for going for health check-ups regularly.</p>
 in the caption together with how you are planning to achieve it together!</p>
 </li>
 <li>
-<p>Don’t forget to make your profile public, tag us <a href="www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and include the hashtags #15M
-and #YourZone (e.g. Ang Mo Kio, Bishan, Hougang, Geylang, Kallang, Novena,
-Sembawang, Serangoon, Simpang, Toa Payoh, Woodlands, Yishun, etc).</p>
+<p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and include the hashtags
+#15M and #YourZone (e.g. Ang Mo Kio, Bishan, Hougang, Geylang, Kallang,
+Novena, Sembawang, Serangoon, Simpang, Toa Payoh, Woodlands, Yishun, etc).</p>
 </li>
 </ol>
 <p></p>
