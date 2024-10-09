@@ -29,9 +29,9 @@ sections:
       description: The 15M Movement aims to shift the focus of health from ‘Me’ to
         ‘We’ – from attaining one's health, to acting together with others for
         the health of all.
-      button: Read more
+      button: Watch video
       url: /about/15msocialmovement/
-      image: /images/Video_thumb.png
+      image: /images/Video_thumb2.png
       alt: Video thumbnail
   - infopic:
       title: Teresa and Awesome Hearts
