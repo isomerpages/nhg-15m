@@ -25,13 +25,3 @@ we aim to keep residents well and healthy, as well as enable residents
 to care for their own wellbeing.&nbsp;Together, we hope to empower our
 residents to regain the 10 years typically spent in ill health, collectively
 adding 15 million years of healthy life.</p>
-<p>Medical care is vital, but it only accounts for 20% of health outcomes.
-The remaining 80% is affected by social determinants, including social
-connectedness. The 15M Movement aims to shift the focus of health from
-‘<strong>Me’ to ‘We’ </strong>– from attaining my own health by myself,
-to acting together with others for the health of all.</p>
-<p>We aspire for residents in communities as families, friends, neighbours,
-colleagues, schoolmates, interest groups to grow as <strong>caring communities </strong>that
-support each other’s well-being and health.</p>
-<p>Let’s connect and act together to add 15M years of healthy life!</p>
-<p></p>
