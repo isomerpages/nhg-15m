@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6496 6000
-      - email: enquiries@abc.gov.sg
+      - email: 15M@nhg.com.sg
       - other: ""
     title: General Enquiries & Feedback
 feedback: ""
