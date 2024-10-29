@@ -10,7 +10,7 @@ sections:
       title: Join us in adding 15 million years of healthy life together!
       subtitle: A social movement to connect and act together for health
       background: /images/banner.png
-      button: Learn More
+      button: Pledge to act together for health
       url: /about/15msocialmovement
       key_highlights:
         - title: About 15M
