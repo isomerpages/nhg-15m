@@ -11,7 +11,7 @@ sections:
       subtitle: A social movement to connect and act together for health
       background: /images/banner.png
       button: Pledge to act together for health
-      url: /about/15msocialmovement
+      url: /residents-hopes/
       key_highlights:
         - title: About 15M
           description: 15M Social Movement
