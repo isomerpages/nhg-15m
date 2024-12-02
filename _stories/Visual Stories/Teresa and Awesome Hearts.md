@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Visual Stories
 ---
-<h2>Teresa and Awesome Hearts</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Teresa and Awesome Hearts" src="/images/Teresa_and_Awesome_Hearts.png">
