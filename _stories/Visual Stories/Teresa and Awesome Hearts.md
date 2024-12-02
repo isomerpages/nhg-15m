@@ -38,7 +38,7 @@ image: /images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_n
 <img height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 5" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_5.jpg">
 </div>
 	</div>
-
+<p></p>
 <hr>
 <h4>View more stories like Teresa's on our Instagram!</h4>
 <p></p>
