@@ -2,7 +2,7 @@ collections:
   stories:
     output: true
     order:
-      - Videos.md
+      - Video Stories.md
       - Stories/.keep
       - Stories/Teresa and Awesome Hearts.md
       - Residents' Hopes.md
