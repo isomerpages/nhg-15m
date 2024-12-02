@@ -21,4 +21,6 @@ third_nav_title: Visual Stories
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p></p>
+<p>Share your story via <a href="https://form.gov.sg/66f6288669eac69a859c8e7b" rel="noopener nofollow" target="_blank">this link</a>,
+or tag us <strong>@<a href="https://www.instagram.com/15m.sg" rel="noopener noreferrer nofollow" target="_blank">15M.SG</a></strong> and <strong>#15M</strong> on
+Instagram or TikTok!</p>
