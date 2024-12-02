@@ -1,5 +1,5 @@
 ---
-title: Stories
+title: Video Stories
 permalink: /stories/
 variant: markdown
 description: ""
