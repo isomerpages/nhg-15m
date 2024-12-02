@@ -6,22 +6,39 @@ description: Teresa and Awesome Hearts
 third_nav_title: Visual Stories
 image: /images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_1.jpg
 ---
+<style>
+	.isomer-image-wrapper {
+	float: left;
+  width: 50%;
+  padding: 2px;
+	}
+	
+	.stopfloat::after {
+  content: "";
+  clear: both;
+  display: table;
+	}
+	@media screen and (max-width: 500px) {  .isomer-image-wrapper {    width: 100%;  }}
+	</style>
 <p></p>
+<div class="stopfloat">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 1" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_1.jpg">
+<img height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 1" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 2" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_2.jpg">
+<img height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 2" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 3" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_3.jpg">
+<img height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 3" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 4" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_4.jpg">
+<img height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 4" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 5" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_5.jpg">
+<img height="auto" width="100%" alt="15M social movement teresa awesome hearts supporting vulnerable neighbours organiser story 5" src="/images/15M_social_movement_teresa_awesome_hearts_supporting_vulnerable_neighbours_organiser_story_5.jpg">
 </div>
+	</div>
+	<p></p>
 <hr>
 <h4>View more stories like Teresa's on our Instagram!</h4>
 <p></p>
