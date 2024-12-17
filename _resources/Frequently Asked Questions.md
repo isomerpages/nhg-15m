@@ -78,7 +78,7 @@ find out more about the 15M Social Challenge.</p>
 <details class="isomer-details">
 <summary>When is the 15M Social Challenge happening?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The 15M Social Challenge will be happening from 1 – 28 February 2025.</p>
+<p>The 15M Social Challenge will be happening from 1 – 30 April 2025.</p>
 </div>
 </details>
 <details class="isomer-details">

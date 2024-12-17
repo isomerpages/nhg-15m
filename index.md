@@ -20,7 +20,7 @@ sections:
           description: Hear from our residents!
           url: /stories
         - title: 15M Social Challenge
-          description: (Happening in February 2025!)
+          description: (Happening in April 2025!)
           url: /15m-social-challenge
       variant: center
   - infopic:
