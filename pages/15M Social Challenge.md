@@ -4,8 +4,16 @@ permalink: /15m-social-challenge/
 variant: tiptap
 description: ""
 ---
-<h4>Caring communities are formed when we get together with those around us to act together for each other’s health. Happening from <u>4 April – 4 May 2025</u>, connect with your friends, family, neighbours, schoolmates, colleagues, set a health goal together, and tell us more about how you are coming together and motivating each other to meet this goal. </h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M Social Challenge 2025" src="/images/15M_Social_Challenge_title.png">
+</div>
+<h4>Caring communities are formed when we get together with those around us to act together for each other’s health. Happening from <u>4 April – 4 May 2025</u>, connect with your friends, family, neighbours, schoolmates, colleagues, set a health goal together, and tell us more about how you are coming together and motivating each other to meet this goal.</h4>
 <h4>Stand a chance to win vouchers for your group when you take part in the 15 Million Years of Healthy Life Social Challenge today!</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vouchers for 15M winners" src="/images/Prizes_vouchers_blue.png">
+</div>
 <p></p>
 <h2>How do I join the 15M Social Challenge?</h2>
 <ol data-tight="true" class="tight">
