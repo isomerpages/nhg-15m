@@ -14,7 +14,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Vouchers for 15M winners" src="/images/Prizes_vouchers_blue.png">
 </div>
-<p></p>
+<p><em>*highest engagement (number of likes, comments and shares)</em>
+</p>
 <h2>How do I join the 15M Social Challenge?</h2>
 <ol data-tight="true" class="tight">
 <li>
