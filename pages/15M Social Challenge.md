@@ -46,8 +46,8 @@ goal in the caption together with how you are planning to achieve it together!</
 </div>
 </li>
 <li>
-<p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and 2 friends you
-want to challenge, and include the hashtag #15Msocialchallenge.</p>
+<p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, 2 friends you want
+to challenge, and include the hashtag #15Msocialchallenge.</p>
 </li>
 </ol>
 <p><em>Terms and conditions apply. Click <u>here</u> to learn more.</em>
