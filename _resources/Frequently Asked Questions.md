@@ -78,7 +78,7 @@ find out more about the 15M Social Challenge.</p>
 <details class="isomer-details">
 <summary>When is the 15M Social Challenge happening?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The 15M Social Challenge will be happening from 1 – 30 April 2025.</p>
+<p>The 15M Social Challenge will be happening from 4 April – 4 May 2025.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -94,15 +94,14 @@ at least once a week, quitting smoking together or even keeping each other
 accountable for going to regular health check-ups regularly.</p>
 </li>
 <li>
-<p>Take a photo of the group acting together for each other’s health</p>
+<p>Capture a photo of your group taking action for each other’s health and
+strike the 15M hand sign – 1 with your right hand, 5 with your left. Post
+the photo onto Instagram / TikTok / Facebook and share your group’s health
+goal in the caption together with how you are planning to achieve it together!</p>
 </li>
 <li>
-<p>Post the photo onto Instagram and share about your group’s health goal
-in the caption together with how you are planning to achieve it together!</p>
-</li>
-<li>
-<p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and include the hashtags
-#15M and #YourZone (e.g. Yishun, AngMoKio etc.)</p>
+<p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank"><u>@</u></a><a href="https://www.instagram.com/15m.sg" rel="noopener noreferrer nofollow" target="_blank"><u>15M.SG</u></a>,
+2 friends you want to challenge, and include the hashtag #15Msocialchallenge.</p>
 </li>
 </ol>
 </div>
