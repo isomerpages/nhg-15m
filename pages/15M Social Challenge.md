@@ -59,13 +59,3 @@ these challenges are a great way to get involved. Pick one that suits you
 and take the first step toward a healthier, more connected community!</p>
 <p>Let’s add 15 Million Years of Healthy Life together. Join us in making
 a difference.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="15M Social Challenge Newsflash" src="/images/Newflash_lineshort.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="15M Social Challenge Newsflash" src="/images/Newflash_line.png">
-</div>
-<p></p>
