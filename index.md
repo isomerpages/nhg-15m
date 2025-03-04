@@ -10,18 +10,18 @@ sections:
       title: Join us in adding 15 million years of healthy life together!
       subtitle: A social movement to connect and act together for health
       background: /images/banner.png
-      button: Pledge to act together for health
-      url: /residents-hopes/
+      button: Join 15M Social Challenge!
+      url: /15m-social-challenge
       key_highlights:
         - title: About 15M
           description: 15M Social Movement
           url: /about/15msocialmovement
         - title: Resident Stories
-          description: Hear from our residents!
+          description: Hear from our residents
           url: /stories
-        - title: 15M Social Challenge
-          description: (Happening in April 2025!)
-          url: /15m-social-challenge
+        - title: Pledge
+          description: Share what matters to you
+          url: /residents-hopes/
       variant: center
   - infopic:
       title: 15M Social Movement
