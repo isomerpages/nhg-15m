@@ -30,7 +30,7 @@ new sport together, quit smoking together or even keeping each other accountable
 for going for health check-ups regularly.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="15M hand sign" src="/images/Graphic_handsign.png">
+<img style="width: 50%;" height="auto" width="100%" alt="15M hand sign" src="/images/Graphic_handsign.png">
 </div>
 </li>
 <li>
@@ -40,7 +40,7 @@ the photo onto Instagram / TikTok / Facebook and share your group’s health
 goal in the caption together with how you are planning to achieve it together!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Tag 15M social media" src="/images/Graphic_socials.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Tag 15M social media" src="/images/Graphic_socials.png">
 </div>
 </li>
 <li>
