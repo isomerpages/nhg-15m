@@ -51,7 +51,7 @@ want to challenge, and include the hashtag #15Msocialchallenge.</p>
 <p><em>Terms and conditions apply. Click <u>here</u> to learn more.</em>
 </p>
 <h4>Not sure where to start?</h4>
-<p>Kickstart your social challenge journey with one of our <a href="www.15m.sg/about/healthy-years-5/" rel="noopener nofollow" target="_blank">health challenges</a>!
+<p>Kickstart your social challenge journey with one of our <a href="/about/healthy-years-5/" rel="noopener nofollow" target="_blank">health challenges</a>!
 Whether it’s staying active, eating smart, or fostering meaningful connections,
 these challenges are a great way to get involved. Pick one that suits you
 and take the first step toward a healthier, more connected community!</p>
