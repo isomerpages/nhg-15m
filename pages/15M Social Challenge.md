@@ -18,7 +18,7 @@ description: ""
 <h2>How do I join the 15M Social Challenge?</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="15M Social Challenge kakis" src="/images/Graphic_gather.png">
+<img style="width: 60%;" height="auto" width="100%" alt="15M Social Challenge kakis" src="/images/Graphic_gather.png">
 </div>
 <ol data-tight="true" class="tight">
 <li>
@@ -27,12 +27,20 @@ reach the goal – these goals can vary from cooking a balanced nutritious
 meal for neighbour, invite your <em>kakis</em> to take a walk, pick up a
 new sport together, quit smoking together or even keeping each other accountable
 for going for health check-ups regularly.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="15M hand sign" src="/images/Graphic_handsign.png">
+</div>
 </li>
 <li>
 <p>Capture a photo of your group taking action for each other’s health and
 strike the 15M hand sign – 1 with your right hand, 5 with your left. Post
 the photo onto Instagram / TikTok / Facebook and share your group’s health
 goal in the caption together with how you are planning to achieve it together!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Tag 15M social media" src="/images/Graphic_socials.png">
+</div>
 </li>
 <li>
 <p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, and 2 friends you
