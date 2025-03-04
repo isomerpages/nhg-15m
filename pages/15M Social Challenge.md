@@ -10,6 +10,7 @@ description: ""
 </div>
 <h4>Caring communities are formed when we get together with those around us to act together for each other’s health. Happening from <u>4 April – 4 May 2025</u>, connect with your friends, family, neighbours, schoolmates, colleagues, set a health goal together, and tell us more about how you are coming together and motivating each other to meet this goal.</h4>
 <h4>Stand a chance to win vouchers for your group when you take part in the 15 Million Years of Healthy Life Social Challenge today!</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Vouchers for 15M winners" src="/images/Prizes_vouchers_blue.png">
 </div>
@@ -29,7 +30,7 @@ new sport together, quit smoking together or even keeping each other accountable
 for going for health check-ups regularly.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="15M hand sign" src="/images/Graphic_handsign.png">
+<img style="width: 40%;" height="auto" width="100%" alt="15M hand sign" src="/images/Graphic_handsign.png">
 </div>
 </li>
 <li>
@@ -39,7 +40,7 @@ the photo onto Instagram / TikTok / Facebook and share your group’s health
 goal in the caption together with how you are planning to achieve it together!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Tag 15M social media" src="/images/Graphic_socials.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Tag 15M social media" src="/images/Graphic_socials.png">
 </div>
 </li>
 <li>
@@ -47,7 +48,8 @@ goal in the caption together with how you are planning to achieve it together!</
 want to challenge, and include the hashtag #15Msocialchallenge.</p>
 </li>
 </ol>
-<p>Terms and conditions apply. Click <u>here</u> to learn more.</p>
+<p><em>Terms and conditions apply. Click <u>here</u> to learn more.</em>
+</p>
 <h4>Not sure where to start?</h4>
 <p>Kickstart your social challenge journey with one of our <a href="www.15m.sg/about/healthy-years-5/" rel="noopener nofollow" target="_blank">health challenges</a>!
 Whether it’s staying active, eating smart, or fostering meaningful connections,
