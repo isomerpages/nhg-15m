@@ -50,7 +50,7 @@ goal in the caption together with how you are planning to achieve it together!</
 to challenge, and include the hashtag #15Msocialchallenge.</p>
 </li>
 </ol>
-<p><em>Terms and conditions apply. Click <a href="/files/15M_Social_Challenge_T_Cs.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to learn more.</em>
+<p><em>Terms and conditions apply. Click <a href="/files/15M_Social_Challenge_T_Cs__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to learn more.</em>
 </p>
 <h4>Not sure where to start?</h4>
 <p>Kickstart your social challenge journey with one of our <a href="/about/healthy-years-5/" rel="noopener nofollow" target="_blank">health challenges</a>!
