@@ -4,11 +4,11 @@ permalink: /about/healthy-years-5/
 variant: tiptap
 description: ""
 ---
-<h2>Healthy Years 5</h2>
+<h2>Health Challenges </h2>
 <p>Did you know that just a few simple changes in your daily routine can
 help you live a healthier life? Healthy Years 5 focuses on five key areas
-to help you and your loved ones take practical steps toward better health.</p>
-<p>Here are some easy, fun healthchallenges you, your friends, your family
+to help you, and your loved ones take practical steps toward better health.</p>
+<p>Here are some easy, fun health challenges you, your friends, your family
 can try to start making a difference today.</p>
 <h4>Foster Meaningful Bonds</h4>
 <table style="minWidth: 75px">
