@@ -21,20 +21,35 @@ try to start making a difference today.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Bonding_Neighbourhood" src="/images/15M_Social_Challenge_Digital_Card_18.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Be_Present" src="/images/15M_Social_Challenge_Digital_Card_17.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Tech_Tutoring" src="/images/15M_Social_Challenge_Digital_Card_16.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Skills_Exchange" src="/images/15M_Social_Challenge_Digital_Card_15.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Hobby_Swap" src="/images/15M_Social_Challenge_Digital_Card_14.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
