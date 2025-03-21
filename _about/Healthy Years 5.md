@@ -53,6 +53,9 @@ try to start making a difference today.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Practice_Gratitude" src="/images/15M_Social_Challenge_Digital_Card_13.png">
+</div>
 </td>
 </tr>
 </tbody>
@@ -68,20 +71,35 @@ try to start making a difference today.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Rainbow_Diet" src="/images/15M_Social_Challenge_Digital_Card_11.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Snack_Swap" src="/images/15M_Social_Challenge_Digital_Card_10.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Go_Kosong" src="/images/15M_Social_Challenge_Digital_Card_12.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Spice_Cooking" src="/images/15M_Social_Challenge_Digital_Card_8.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Healthy_Food_Choices" src="/images/15M_Social_Challenge_Digital_Card_9.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
