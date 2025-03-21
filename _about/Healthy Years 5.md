@@ -118,20 +118,35 @@ try to start making a difference today.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Active_Transport" src="/images/15M_Social_Challenge_Digital_Card_2.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Stair_Climb" src="/images/15M_Social_Challenge_Digital_Card_1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Step_Count" src="/images/15M_Social_Challenge_Digital_Card_5.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Weekend_Warrior" src="/images/15M_Social_Challenge_Digital_Card_4.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M_Health_Challenges_Explore_Park_Connector" src="/images/15M_Social_Challenge_Digital_Card_3.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -193,4 +208,5 @@ try to start making a difference today.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
