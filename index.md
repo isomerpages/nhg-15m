@@ -39,7 +39,7 @@ sections:
       description: Olah is our new mascot who is always ready to take action and
         inspire others to stay active and connected.
       button: Meet Olah
-      url: /about/mascot/
+      url: /about/meet-olah/
       image: /images/Homepage_Olah.jpg
       alt: Olah Mascot
   - infopic:
