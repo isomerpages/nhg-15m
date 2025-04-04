@@ -214,5 +214,8 @@ can try to start making a difference today.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p>You can also choose to set your own health challenge! It's all about making
+positive changes that work for you and your friends.</p>
+<p>Remember, the goal is to act together for each other's health, so gather
+your family, friends, or colleagues and embark on this journey to regain
+those healthy years. Let's make health a fun and collective experience!</p>
