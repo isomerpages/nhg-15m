@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Video Stories.md
+      - Visual Stories/From stroke survivor to resident connector.md
       - Visual Stories/.keep
       - Visual Stories/Teresa and Awesome Hearts.md
       - Residents' Hopes.md
