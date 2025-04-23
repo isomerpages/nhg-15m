@@ -22,3 +22,7 @@ third_nav_title: Visual Stories
 <img style="width: 100%" height="auto" width="100%" alt="15M social movement mdm tan from stroke survivor to resident connector story 5" src="/images/15M_social_movement_mdm_tan_from_stroke_survivor_to_resident_connector_story_5.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="15M social movement mdm tan from stroke survivor to resident connector story 6" src="/images/15M_social_movement_mdm_tan_from_stroke_survivor_to_resident_connector_story_6.png">
+</div>
+<p></p>
