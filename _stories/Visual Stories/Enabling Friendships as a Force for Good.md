@@ -22,7 +22,7 @@ third_nav_title: Visual Stories
 <p></p>
 <div class="stopfloat">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="15M social movement sherry enabling friendships as force for good story 1" src="/images/15M_social_movement_sherry_enabling_friendships_as_force_for_good_story_1.png">
+<img height="auto" width="100%" alt="15M social movement sherry enabling friendships as force for good story 1" src="/images/15M_social_movement_sherry_enabling_friendships_as_force_for_good_story_1.png">
 </div>
 <div class="isomer-image-wrapper">
 <img height="auto" width="100%" alt="15M social movement sherry enabling friendships as force for good story 2" src="/images/15M_social_movement_sherry_enabling_friendships_as_force_for_good_story_2.png">
