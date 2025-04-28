@@ -10,7 +10,7 @@ description: ""
 <p>With a passion for health and wellness, Olah actively cares for self and
 looks out for others. Olah is also ever keen to join in group activities
 to stay active and connected.</p>
-<p></p><a class="isomer-image-wrapper" href="https://sticker.ly/s/JNWTZ0"><img style="width: 100%" height="auto" width="100%" alt="Olah WhatsApp Stickers Banner" src="/images/Hero_Mascot_WhatsApp_Sticker_Banner_V1.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://sticker.ly/s/JNWTZ0"><img style="width: 100%" height="auto" width="100%" alt="Olah WhatsApp Sticker Banner" src="/images/Hero_Mascot_WhatsApp_Sticker_Banner_V1_1.png"></a>
 <h4>Guess who’s joining Olah soon</h4>
 <p>A strong community starts with healthy connections! Two more friends are
 coming to join the fun. Who do you think they are?</p>
