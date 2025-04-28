@@ -9,8 +9,13 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="15M Social Challenge extended title3" src="/images/15M_Social_Challenge_extended_title3.png">
 </div>
 <h4><strong>You asked for more time, we listened! Challenge period now extended.</strong></h4>
-<h4>Caring communities are formed when we get together with those around us to act together for each other’s health. We've extended the challenge period to give more of you the opportunity to participate and make meaningful connections while working towards better health.</h4>
-<h4>From <u>4 April – 4 June 2025</u>, connect with your friends, family, neighbours, schoolmates, colleagues, set a health goal together, and tell us more about how you are coming together and motivating each other to meet this goal.</h4>
+<p>Caring communities are formed when we get together with those around us
+to act together for each other’s health. We've extended the challenge period
+to give more of you the opportunity to participate and make meaningful
+connections while working towards better health.</p>
+<p>From 4 April – 4 June 2025, connect with your friends, family, neighbours,
+schoolmates, colleagues, set a health goal together, and tell us more about
+how you are coming together and motivating each other to meet this goal.</p>
 <h2>Prizes</h2>
 <p>Stand a chance to win vouchers for your group when you take part in the
 15 Million Years of Healthy Life Social Challenge today!</p>
