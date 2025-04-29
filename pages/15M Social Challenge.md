@@ -8,17 +8,16 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="15M Social Challenge extended title3" src="/images/15M_Social_Challenge_extended_title3.png">
 </div>
-<h4><strong>You asked for more time, we listened! Challenge period now extended.</strong></h4>
-<p>Caring communities are formed when we get together with those around us
-to act together for each other’s health. We've extended the challenge period
-to give more of you the opportunity to participate and make meaningful
-connections while working towards better health.</p>
-<p>From 4 April – 4 June 2025, connect with your friends, family, neighbours,
-schoolmates, colleagues, set a health goal together, and tell us more about
-how you are coming together and motivating each other to meet this goal.</p>
-<h2>Prizes</h2>
-<p>Stand a chance to win vouchers for your group when you take part in the
-15 Million Years of Healthy Life Social Challenge today!</p>
+<h4><strong>Challenge period extended to 4 June 2025!</strong></h4>
+<p>You asked for more time, we listened! Caring communities grow stronger
+when we come together to support each other's health journey. That's why
+we've extended the challenge period – to give more people the opportunity
+to join in, forge meaningful connections, and work towards better health
+together.</p>
+<p>From 4 April – 4 June 2025, stand a chance to win vouchers when you connect
+with your friends, family, neighbours, schoolmates, colleagues, set a health
+goal together, and tell us more about how you are coming together and motivating
+each other to meet this goal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="15M Social Challenge Prizes" src="/images/Prizes_vouchers_blue2.png">
 </div>
