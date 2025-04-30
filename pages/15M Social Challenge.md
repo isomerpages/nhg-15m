@@ -6,12 +6,18 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="15M Social Challenge 2025" src="/images/15M_Social_Challenge_title3.png">
+<img style="width: 100%" height="auto" width="100%" alt="15M Social Challenge extended title3" src="/images/15M_Social_Challenge_extended_title3.png">
 </div>
-<h4>Caring communities are formed when we get together with those around us to act together for each other’s health. Happening from <u>4 April – 4 May 2025</u>, connect with your friends, family, neighbours, schoolmates, colleagues, set a health goal together, and tell us more about how you are coming together and motivating each other to meet this goal.</h4>
-<h2>Prizes</h2>
-<p>Stand a chance to win vouchers for your group when you take part in the
-15 Million Years of Healthy Life Social Challenge today!</p>
+<h4><strong>Challenge period extended to 4 June 2025!</strong></h4>
+<p>You asked for more time, we listened! Caring communities grow stronger
+when we come together to support each other's health journey. That's why
+we've extended the challenge period – to give more people the opportunity
+to join in, forge meaningful connections, and work towards better health
+together.</p>
+<p>From 4 April – 4 June 2025, stand a chance to win vouchers when you connect
+with your friends, family, neighbours, schoolmates, colleagues, set a health
+goal together, and tell us more about how you are coming together and motivating
+each other to meet this goal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="15M Social Challenge Prizes" src="/images/Prizes_vouchers_blue2.png">
 </div>
@@ -49,7 +55,7 @@ goal in the caption together with how you are planning to achieve it together!</
 to challenge, and include the hashtag #15Msocialchallenge.</p>
 </li>
 </ol>
-<p><em>Terms and conditions apply. Click <a href="/files/15M_Social_Challenge_T_Cs__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to learn more.</em>
+<p><em>Terms and conditions apply. Click <a href="/files/15M_Social_Challenge_T_Cs__Updated_28Apr25_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to learn more.</em>
 </p>
 <h4>Not sure where to start?</h4>
 <p>Kickstart your social challenge journey with one of our <a href="/about/healthy-years-5/" rel="noopener nofollow" target="_blank">health challenges</a>!
