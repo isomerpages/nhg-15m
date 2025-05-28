@@ -7,6 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="15M Mascots" src="/images/Mascots_Website_Banner.jpg">
 </div>
+<p></p>
     <div style="margin: 20px 0;" class="row is-multiline">
         <div class="col is-4">
             <div style="background-color: #ffffff; padding: 20px; border-radius: 8px;">
