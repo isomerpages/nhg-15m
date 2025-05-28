@@ -11,16 +11,16 @@ description: ""
            <div style="flex: 0 0 auto; padding: 20px; background-color: #ffffff; border-radius: 8px;">
             <img style="width: 200px; height: auto;" alt="Olah" src="/images/Olah.jpg">
         </div>
-        <div style="flex: 1; display: flex; align-items: center;">
-            <p>With a passion for health and wellness, Olah actively cares for self and looks out for others. Olah is also ever keen to join in group activities to stay active and connected.</p>
+             <div style="flex: 1; display: flex; align-items: center;">
+            <p style="line-height: 1.5; margin: 0;">With a passion for health and wellness, Olah actively cares for self and looks out for others. Olah is also ever keen to join in group activities to stay active and connected.</p>
         </div>
     </div>
     <div style="display: flex; align-items: center; gap: 30px;">
            <div style="flex: 0 0 auto; padding: 20px; background-color: #ffffff; border-radius: 8px;">
             <img style="width: 200px; height: auto;" alt="Lylah" src="/images/Lylah.jpg">
         </div>
-        <div style="flex: 1; display: flex; align-items: center;">
-            <p>Lylah is incredibly resourceful, always ready to help and connect people
+            <div style="flex: 1; display: flex; align-items: center;">
+            <p style="line-height: 1.5; margin: 0;">Lylah is incredibly resourceful, always ready to help and connect people
 to the activities and support they need.</p>
         </div>
     </div>
