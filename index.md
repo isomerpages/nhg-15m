@@ -40,7 +40,7 @@ sections:
         helping to build a healthier, more vibrant community for all.
       button: Meet the team
       url: /about/meet-olah
-      image: /images/Homepage_Olah.jpg
+      image: /images/Homepage_banner.jpg
       alt: Olah Mascot
   - infopic:
       title: Teresa and Awesome Hearts
