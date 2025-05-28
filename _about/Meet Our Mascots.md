@@ -17,11 +17,11 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Olah" src="/images/Olah.jpg">
+<img height="auto" width="60%" alt="Olah" src="/images/Olah.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>With a passion for health and wellness, Olah actively cares for self and looks out for others. Olah is also ever keen to join in group activities to stay active and connected.</strong>
+<p>With a passion for health and wellness, Olah actively cares for self and looks out for others. Olah is also ever keen to join in group activities to stay active and connected.
 </p>
 </th>
 </tr>
@@ -29,7 +29,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lylah" src="/images/Lylah.jpg">
+<img height="auto" width="60%" alt="Lylah" src="/images/Lylah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
