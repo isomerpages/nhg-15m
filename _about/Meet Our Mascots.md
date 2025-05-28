@@ -18,7 +18,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 	<div class="isomer-image-wrapper">
-<img height="auto" width="50%" alt="Olah" src="/images/Olah.jpg">
+<img height="50%" width="50%" alt="Olah" src="/images/Olah.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="2">
@@ -30,7 +30,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img height="auto" width="50%" alt="Lylah" src="/images/Lylah.jpg">
+<img height="50%" width="50%" alt="Lylah" src="/images/Lylah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
