@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="15M Mascots" src="/images/Mascots_Website_Banner.jpg">
 </div>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -17,20 +17,20 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="60%" alt="Olah" src="/images/Olah.jpg">
+	<div class="isomer-image-wrapper">
+<img height="auto" width="50%" alt="Olah" src="/images/Olah.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="2">
-<p><strong>With a passion for health and wellness, Olah actively cares for self and looks out for others. Olah is also ever keen to join in group activities to stay active and connected.</strong>
-</p>
+<p>With a passion for health and wellness, Olah actively cares for self and looks out for others. Olah is also ever keen to join in group activities to stay active and connected.
+	</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="60%" alt="Lylah" src="/images/Lylah.jpg">
+<img height="auto" width="50%" alt="Lylah" src="/images/Lylah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
