@@ -39,9 +39,9 @@ sections:
       description: Say hello to the friendly faces of our movement. Together, they're
         helping to build a healthier, more vibrant community for all.
       button: Meet the team
-      url: /about/meet-olah
+      url: /about/meet-mascots
       image: /images/Homepage_banner.jpg
-      alt: Olah Mascot
+      alt: Meet Our Mascots
   - infopic:
       title: Teresa and Awesome Hearts
       subtitle: Feature Story
