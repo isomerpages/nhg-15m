@@ -34,14 +34,14 @@ sections:
       image: /images/Video_thumb2.png
       alt: Video thumbnail
   - infopic:
-      title: Hello, I'm Olah!
+      title: Meet Our Mascots
       id: infopic
-      description: Olah is our new mascot who is always ready to take action and
-        inspire others to stay active and connected.
-      button: Meet Olah
-      url: /about/meet-olah
-      image: /images/Homepage_Olah.jpg
-      alt: Olah Mascot
+      description: Say hello to the friendly faces of our movement. Together, they're
+        helping to build a healthier, more vibrant community for all.
+      button: Meet the team
+      url: /about/meet-mascots
+      image: /images/Homepage_banner.jpg
+      alt: Meet Our Mascots
   - infopic:
       title: Teresa and Awesome Hearts
       subtitle: Feature Story
