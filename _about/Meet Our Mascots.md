@@ -39,13 +39,13 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Olah WhatsApp Sticker Pack" src="/images/Olah_s_Sticker_Pack.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Olah WhatsApp Sticker Pack" src="/images/Olah_WhatsApp_Stickers__Website_.png">
 </div>
 	<p>Download <a target="blank" rel="noopener nofollow" href="https://sticker.ly/s/JNWTZ0">here</a></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lylah WhatsApp Sticker Pack" src="/images/Lylah_s_Sticker_Pack.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lylah WhatsApp Sticker Pack" src="/images/Lylah__WhatsApp_Stickers__Website_.png">
 </div>
 <p>Download <a target="blank" rel="noopener nofollow" href="https://sticker.ly/s/8W41JB">here</a></p>
 </th>
