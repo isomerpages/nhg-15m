@@ -8,59 +8,81 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="15M Social Challenge extended title3" src="/images/15M_Social_Challenge_extended_title3.png">
 </div>
-<h4><strong>Challenge period extended to 4 June 2025!</strong></h4>
-<p>You asked for more time, we listened! Caring communities grow stronger
-when we come together to support each other's health journey. That's why
-we've extended the challenge period – to give more people the opportunity
-to join in, forge meaningful connections, and work towards better health
-together.</p>
-<p>From 4 April – 4 June 2025, stand a chance to win vouchers when you connect
-with your friends, family, neighbours, schoolmates, colleagues, set a health
-goal together, and tell us more about how you are coming together and motivating
-each other to meet this goal.</p>
+<h4><strong>What is 15M Social Challenge?</strong></h4>
+<p>The 15M Social Challenge encourages you to take action for better health
+with your group (friends, family, colleagues, or neighbours) by setting
+and achieving health goals together. This could be anything from cooking
+nutritious meals, exercising as a group, supporting each other to quit
+smoking, or ensuring everyone goes for regular health check-ups.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="15M Social Challenge Prizes" src="/images/Prizes_vouchers_blue2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="15M hand sign" src="/images/Graphic_handsign.png">
 </div>
-<p><em>*highest engagement (number of likes, comments and shares)</em>
-</p>
-<h2>How do I join the 15M Social Challenge?</h2>
+<p>At our annual 15M Social Challenge campaign, capture these moments with
+the 15M hand sign (1 with your right hand, 5 with your left), share them
+on social media, and challenge others to join the movement.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="15M Social Challenge kakis" src="/images/Graphic_gather.png">
 </div>
-<ol data-tight="true" class="tight">
-<li>
-<p>Get together to set a joint health challenge and support each other to
-reach the goal – these goals can vary from cooking a balanced nutritious
-meal for neighbour, invite your <em>kakis</em> to take a walk, pick up a
-new sport together, quit smoking together or even keeping each other accountable
-for going for health check-ups regularly.</p>
+<p>Why together? Because health improvements are more achievable and sustainable
+when we support each other. As part of NHG Health's ongoing efforts to
+build a healthier community in Central and North Singapore, the 15M Social
+Challenge transforms individual health journeys into shared experiences.
+When we share these moments, we inspire others and show that better health
+is within everyone's reach when we work together.</p>
+<h4><strong>Thank You for Participating in the 15M Social Challenge 2025!</strong></h4>
+<p>The inaugural 15M Social Challenge 2025 took place from 4 April 2025 to
+4 June 2025. What a ride it has been! Thank you to everyone who took part
+and made it such a meaningful experience.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="15M hand sign" src="/images/Graphic_handsign.png">
-</div>
-</li>
-<li>
-<p>Capture a photo of your group taking action for each other’s health and
-strike the 15M hand sign – 1 with your right hand, 5 with your left. Post
-the photo onto Instagram / TikTok / Facebook and share your group’s health
-goal in the caption together with how you are planning to achieve it together!</p>
-<p></p>
+<p>Your creativity, enthusiasm, and commitment to building a healthier, more
+connected communities in Central and North Singapore were truly inspiring.</p>
+<p>Check out inspiring highlights from the 2025 challenge on our social media:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Tag 15M social media" src="/images/Graphic_socials.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/12mfacebook"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/15instagram"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/insta.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/15mtiktok"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/tiktok.png"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
+<h4><strong>What’s Next?</strong></h4>
+<p>While the 2025 challenge has ended, your health journey continues. Here's
+how you can keep the momentum going:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Continue your health activities with your challenge group or kickstart
+your social challenge journey with one of our <a href="/about/healthy-years-5/" rel="noopener nofollow" target="_blank">health challenges</a>.</p>
 </li>
 <li>
-<p>Don’t forget to make your profile public, tag us <a href="https://www.instagram.com/15m.sg" rel="noopener nofollow" target="_blank">@15M.SG</a>, 2 friends you want
-to challenge, and include the hashtag #15Msocialchallenge.</p>
+<p>Start your own 15M Social Challenge in your organisation, school, or community
+by setting and achieving health goals together. Contact us through our
+social media platforms if you'd like to organise a challenge for your communities</p>
 </li>
-</ol>
-<p><em>Terms and conditions apply. Click <a href="/files/15M_Social_Challenge_T_Cs__Updated_28Apr25_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to learn more.</em>
-</p>
-<h4>Not sure where to start?</h4>
-<p>Kickstart your social challenge journey with one of our <a href="/about/healthy-years-5/" rel="noopener nofollow" target="_blank">health challenges</a>!
-Whether it’s staying active, eating smart, or fostering meaningful connections,
-these challenges are a great way to get involved. Pick one that suits you
-and take the first step toward a healthier, more connected community!</p>
-<p>Let’s add 15 Million Years of Healthy Life together. Join us in making
-a difference.</p>
+<li>
+<p>Look out for more 15M initiatives on our website and social media platforms</p>
+</li>
+</ul>
+<p>Keep taking action for better health together and look out for the 15M
+Social Challenge 2026! We can't wait to see how you'll continue making
+a difference in our community.</p>
