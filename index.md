@@ -10,7 +10,7 @@ sections:
       title: Join us in adding 15 million years of healthy life together!
       subtitle: A social movement to connect and act together for health
       background: /images/banner.png
-      button: Join 15M Social Challenge!
+      button: 15M Social Challenge Highlights
       url: /15m-social-challenge
       key_highlights:
         - title: About 15M
