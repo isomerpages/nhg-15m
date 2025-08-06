@@ -48,11 +48,11 @@ connected communities in Central and North Singapore were truly inspiring.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/12mfacebook"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/12mfacebook"><img height="auto" width="50%" alt="" src="/images/fb.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/15instagram"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/insta.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/15instagram"><img height="auto" width="50%" alt="" src="/images/insta.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/15mtiktok"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/tiktok.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="for.sg/15mtiktok"><img height="auto" width="50%" alt="" src="/images/tiktok.png"></a>
 </th>
 </tr>
 </tbody>
