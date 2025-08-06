@@ -4,9 +4,8 @@ permalink: /15m-social-challenge/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="15M Social Challenge extended title3" src="/images/15M_Social_Challenge_extended_title3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/15M_social_challenge_graphic.png">
 </div>
 <h4><strong>What is 15M Social Challenge?</strong></h4>
 <p>The 15M Social Challenge encourages you to take action for better health
