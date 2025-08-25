@@ -40,7 +40,7 @@ sections:
         helping to build a healthier, more vibrant community for all.
       button: Meet the team
       url: /about/meet-mascots
-      image: /images/Homepage_banner.jpg
+      image: /images/Homepage_banner.png
       alt: Meet Our Mascots
   - infopic:
       title: Teresa and Awesome Hearts
