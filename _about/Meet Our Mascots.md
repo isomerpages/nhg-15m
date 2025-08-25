@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="15M Mascots" src="/images/Mascots_Website_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="15M Mascots" src="/images/Homepage_banner.png">
 </div>
 <p></p>
   <div style="margin: 20px 0;" class="row is-multiline">
@@ -26,6 +26,16 @@ description: ""
         </div>
         <div style="display: flex; align-items: center;" class="col is-8">
             Lylah is incredibly resourceful, always ready to help and connect people to the activities and support they need.
+        </div>
+    </div>
+		<div style="margin: 20px 0;" class="row is-multiline">
+        <div class="col is-4">
+            <div style="background-color: #ffffff; padding: 20px; border-radius: 8px;">
+                <img alt="Ellah" src="/images/Website_Ellah.png">
+            </div>
+        </div>
+	<div style="display: flex; align-items: center;" class="col is-8">
+            Ellah brings people together. From organising social gatherings and fitness meetups to helping coordinate volunteer efforts, she knows how to build happiness through meaningful connections. When we move as a group, we go further – and Ellah makes that happen.
         </div>
     </div>
 <hr>
