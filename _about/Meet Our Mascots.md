@@ -28,8 +28,8 @@ description: ""
             Lylah is incredibly resourceful, always ready to help and connect people to the activities and support they need.
         </div>
     </div>
-		<div style="margin: 20px 0;" class="row is-multiline">
-        <div class="col is-4">
+  <div style="margin: 20px 0;" class="row is-multiline">
+       <div class="col is-4">
             <div style="background-color: #ffffff; padding: 20px; border-radius: 8px;">
                 <img alt="Ellah" src="/images/Website_Ellah.png">
             </div>
