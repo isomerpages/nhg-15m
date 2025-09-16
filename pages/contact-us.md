@@ -2,12 +2,12 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: NHG Population Health Campus
+agency_name: NHG Population Health
 locations:
   - address:
-      - 3 Fusionopolis Link,
-      - "#03-08 Nexus @ One-North,"
-      - Singapore 138 543
+      - 1 Mandalay Road
+      - Singapore 308205
+      - ""
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6496 6000
-      - email: 15M@nhg.com.sg
+      - email: nhggroup.15m@nhghealth.com.sg
       - other: ""
     title: General Enquiries & Feedback
 feedback: ""
